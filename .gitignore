@@ -1,0 +1,14 @@
+# Ignore virtual environment
+beth.10A/
+
+# Ignore data files
+data/
+*.csv
+*.xlsx
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
