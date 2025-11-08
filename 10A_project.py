@@ -12,3 +12,4 @@ data/
 # Ignore temporary files
 __pycache__/
 *.log
+
